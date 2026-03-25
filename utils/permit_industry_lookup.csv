@@ -1,0 +1,871 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+NH0000116,,,2821,Plastics Materials And Resins
+NH0000230,322121,Paper [Except Newsprint] Mills,2621,Paper Mills
+NH0000311,,,2621,Paper Mills
+NH0000361,,,4911,Electric Services
+NH0000370,,,4911,Electric Services
+NH0000388,,,4911,Electric Services
+NH0000621,,,0921,Fish Hatcheries And Preserves
+NH0000655,,,2611,Pulp Mills
+NH0000710,,,0921,Fish Hatcheries And Preserves
+NH0000736,,,0921,Fish Hatcheries And Preserves
+NH0000744,,,0921,Fish Hatcheries And Preserves
+NH0000752,,,0921,Fish Hatcheries And Preserves
+NH0000973,,,2035,"Pickles, Sauces, And Salad Dressings"
+NH0001023,331524,Aluminum Foundries [Except Die-Casting],3365,Aluminum Foundries
+NH0001180,,,2621,Paper Mills
+NH0001392,,,4911,Electric Services
+NH0001406,,,4911,Electric Services
+NH0001422,,,4911,Electric Services
+NH0001431,,,4911,Electric Services
+NH0001465,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+NH0001473,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+NH0001481,,,4911,Electric Services
+NH0001490,,,3357,Nonferrous Wiredrawing & Insulating
+NH0001562,,,2621,Paper Mills
+NH0001601,,,4911,Electric Services
+NH0001619,,,9711,National Security
+NH0001620,112511,Finfish Farming and Fish Hatcheries,0273,Animal Aquaculture
+NH0001621,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NH0020338,,,4911,Electric Services
+NH0020494,,,5171,Petroleum Bulk Stations & Terminals
+NH0020923,,,2092,Fresh Or Frozen Prepared Fish
+NH0020966,,,9512,"Land, Mineral, Wildlife Conservation"
+NH0021415,,,4911,Electric Services
+NH0021423,221117,Biomass Electric Power Generation,4911,Electric Services
+NH0021652,,,4911,Electric Services
+NH0022021,,,4911,Electric Services
+NH0022055,,,8734,Testing Laboratories
+NH0022438,,,3965,"Fasteners, Buttons, Needles, & Pins"
+NH0022942,,,4911,Electric Services
+NH0022985,,,8734,Testing Laboratories
+NH0023302,,,7999,Amusement And Recreation
+NH0023361,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+NH0023400,,,4911,Electric Services
+NH0023442,,,5171,Petroleum Bulk Stations & Terminals
+NH0023469,,,1429,Crushed And Broken Stone
+NH0023523,,,4953,Refuse Systems
+NH0023540,112120,Dairy Cattle and Milk Production,0241,Dairy Farms
+NH0023558,,,3612,"Transformers, Except Electronic"
+NH0023559,,,6513,Apartment Building Operators
+NH0023561,,,0273,Animal Aquaculture
+NH0023562,321113,Sawmills,2421,"Sawmills And Planing Mills, General"
+NH0090000,,,9711,National Security
+NH0090077,,,9711,National Security
+NH0100005,,,4952,Sewerage Systems
+NH0100013,,,4952,Sewerage Systems
+NH0100056,,,4952,Sewerage Systems
+NH0100099,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NH0100102,,,4952,Sewerage Systems
+NH0100111,,,4952,Sewerage Systems
+NH0100129,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NH0100145,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NH0100153,,,4952,Sewerage Systems
+NH0100161,,,4952,Sewerage Systems
+NH0100170,,,4952,Sewerage Systems
+NH0100196,,,4952,Sewerage Systems
+NH0100200,,,4952,Sewerage Systems
+NH0100226,,,4952,Sewerage Systems
+NH0100234,,,4952,Sewerage Systems
+NH0100251,,,4952,Sewerage Systems
+NH0100277,,,4952,Sewerage Systems
+NH0100293,,,4952,Sewerage Systems
+NH0100307,,,4952,Sewerage Systems
+NH0100315,,,4952,Sewerage Systems
+NH0100331,,,4952,Sewerage Systems
+NH0100366,,,4952,Sewerage Systems
+NH0100382,,,4952,Sewerage Systems
+NH0100404,,,4952,Sewerage Systems
+NH0100412,,,4952,Sewerage Systems
+NH0100421,,,4952,Sewerage Systems
+NH0100447,,,4952,Sewerage Systems
+NH0100455,,,4952,Sewerage Systems
+NH0100471,,,4952,Sewerage Systems
+NH0100498,,,4952,Sewerage Systems
+NH0100501,,,4952,Sewerage Systems
+NH0100510,,,4952,Sewerage Systems
+NH0100544,,,4952,Sewerage Systems
+NH0100579,,,4952,Sewerage Systems
+NH0100595,,,4952,Sewerage Systems
+NH0100609,,,4952,Sewerage Systems
+NH0100625,,,4952,Sewerage Systems
+NH0100650,,,4952,Sewerage Systems
+NH0100668,,,4952,Sewerage Systems
+NH0100676,,,4952,Sewerage Systems
+NH0100692,,,4952,Sewerage Systems
+NH0100706,,,4941,Water Supply
+NH0100765,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NH0100781,,,4952,Sewerage Systems
+NH0100790,,,4952,Sewerage Systems
+NH0100854,,,4952,Sewerage Systems
+NH0100871,,,4952,Sewerage Systems
+NH0100901,,,4952,Sewerage Systems
+NH0100919,,,4952,Sewerage Systems
+NH0100960,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NH0100978,,,4952,Sewerage Systems
+NH0100986,,,4952,Sewerage Systems
+NH0101028,,,6512,Nonresidential Building Operators
+NH0101044,,,8221,Colleges And Universities
+NH0101052,,,4952,Sewerage Systems
+NH0101150,,,4952,Sewerage Systems
+NH0101168,,,4952,Sewerage Systems
+NH0101192,,,4952,Sewerage Systems
+NH0101206,,,4952,Sewerage Systems
+NH0101231,,,4952,Sewerage Systems
+NH0101249,,,4952,Sewerage Systems
+NH0101257,,,4952,Sewerage Systems
+NH0101303,,,4952,Sewerage Systems
+NH0101311,,,4952,Sewerage Systems
+NH0101390,,,4952,Sewerage Systems
+NH0101391,,,4952,Sewerage Systems
+NH0101392,,,4952,Sewerage Systems
+NH0109000,,,4952,Sewerage Systems
+NH0110001,,,0921,Fish Hatcheries And Preserves
+NH0110078,,,0273,Animal Aquaculture
+NHG070023,,,4952,Sewerage Systems
+NHG070025,,,4952,Sewerage Systems
+NHG070029,,,4952,Sewerage Systems
+NHG070036,,,4941,Water Supply
+NHG070037,,,4932,Gas And Other Services Combined
+NHG070041,,,4941,Water Supply
+NHG070042,,,4911,Electric Services
+NHG130001,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+NHG130002,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+NHG130003,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+NHG130004,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+NHG130005,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+NHG250147,,,3541,"Machine Tools, Metal Cutting Types"
+NHG250317,,,3825,Instruments To Measure Electricity
+NHG250392,,,2221,"Broadwoven Fabric Mills, Manmade"
+NHG250465,,,2819,Industrial Inorganic Chemicals
+NHG250571,,,8611,Business Associations
+NHG250572,,,4941,Water Supply
+NHG250573,,,4941,Water Supply
+NHG360001,,,2621,Paper Mills
+NHG360002,,,2621,Paper Mills
+NHG360003,,,4911,Electric Services
+NHG360004,,,4911,Electric Services
+NHG360005,,,4911,Electric Services
+NHG360006,,,4911,Electric Services
+NHG360007,,,4911,Electric Services
+NHG360008,,,4911,Electric Services
+NHG360009,,,4911,Electric Services
+NHG360010,,,4911,Electric Services
+NHG360011,,,4911,Electric Services
+NHG360012,,,4911,Electric Services
+NHG360013,,,4911,Electric Services
+NHG360014,,,4911,Electric Services
+NHG360015,,,4911,Electric Services
+NHG360016,,,4911,Electric Services
+NHG360017,,,4911,Electric Services
+NHG360018,,,4911,Electric Services
+NHG360019,,,4911,Electric Services
+NHG360020,,,4911,Electric Services
+NHG360021,,,4911,Electric Services
+NHG360022,,,4911,Electric Services
+NHG360023,,,4911,Electric Services
+NHG360024,,,4911,Electric Services
+NHG360025,,,4911,Electric Services
+NHG360026,,,4911,Electric Services
+NHG360027,,,4911,Electric Services
+NHG360028,,,4911,Electric Services
+NHG360029,,,4911,Electric Services
+NHG360030,,,4911,Electric Services
+NHG360031,,,4911,Electric Services
+NHG360034,,,4911,Electric Services
+NHG580018,,,4952,Sewerage Systems
+NHG580021,,,4952,Sewerage Systems
+NHG580099,,,4952,Sewerage Systems
+NHG580242,,,4952,Sewerage Systems
+NHG580391,,,4952,Sewerage Systems
+NHG580536,,,4952,Sewerage Systems
+NHG580561,,,4952,Sewerage Systems
+NHG580714,,,4952,Sewerage Systems
+NHG580927,,,4952,Sewerage Systems
+NHG580935,,,4952,Sewerage Systems
+NHG580978,,,4941,Water Supply
+NHG581141,,,4952,Sewerage Systems
+NHG581206,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG581214,,,4952,Sewerage Systems
+NHG581249,,,4952,Sewerage Systems
+NHG58A001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A002,,,4952,Sewerage Systems
+NHG58A003,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A004,,,4952,Sewerage Systems
+NHG58A005,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A006,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A007,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A009,,,4952,Sewerage Systems
+NHG58A010,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A011,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A012,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NHG58A013,,,4952,Sewerage Systems
+NHG640002,,,4941,Water Supply
+NHG640003,,,4941,Water Supply
+NHG640005,,,4941,Water Supply
+NHG640007,,,4941,Water Supply
+NHG640008,,,4911,Electric Services
+NHG640009,,,4911,Electric Services
+NHG640011,,,4911,Electric Services
+NHG640012,,,4911,Electric Services
+NHG910047,,,2259,Knitting Mills
+NHG910055,,,4911,Electric Services
+NHG910100,562910,Remediation Services,4959,Sanitary Services
+NHG910102,562910,Remediation Services,4959,Sanitary Services
+NHG910103,562910,Remediation Services,4959,Sanitary Services
+NHG910104,562910,Remediation Services,4959,Sanitary Services
+NHG910105,562910,Remediation Services,4959,Sanitary Services
+NHG910108,562910,Remediation Services,4959,Sanitary Services
+NHG910109,562910,Remediation Services,4959,Sanitary Services
+NHG910110,562910,Remediation Services,4959,Sanitary Services
+NHG910111,562910,Remediation Services,4959,Sanitary Services
+NHG910112,562910,Remediation Services,4959,Sanitary Services
+NHG910115,562910,Remediation Services,4959,Sanitary Services
+NHG910116,562910,Remediation Services,4959,Sanitary Services
+NHG910117,562910,Remediation Services,4959,Sanitary Services
+NHG910119,562910,Remediation Services,4959,Sanitary Services
+NHL000001,,,2875,"Fertilizers, Mixing Only"
+NHNOE0001,,,2752,"Commercial Printing, Lithographic"
+NHNOE0002,,,2752,"Commercial Printing, Lithographic"
+NHNOE0003,,,2434,Wood Kitchen Cabinets
+NHNOE0004,,,5093,Scrap And Waste Materials
+NHNOE0005,,,3674,Semiconductors And Related Devices
+NHNOE0006,,,3724,Aircraft Engines And Engine Parts
+NHNOE0007,,,4213,"Trucking, Except Local"
+NHNOE3001,,,3499,Fabricated Metal Products
+NHNOE3005,,,3999,Manufacturing Industries
+NHNOE3007,,,2295,"Coated Fabrics, Not Rubberized"
+NHNOE3009,,,3679,Electronic Components
+NHNOE3010,,,3827,Optical Instruments And Lenses
+NHNOE3014,,,3562,Ball And Roller Bearings
+NHNOE3015,,,3562,Ball And Roller Bearings
+NHNOE3024,,,3069,Fabricated Rubber Products
+NHNOE3026,,,5093,Scrap And Waste Materials
+NHNOE3028,,,3555,Printing Trades Machinery
+NHNOE3030,,,5093,Scrap And Waste Materials
+NHNOE3031,,,2026,Fluid Milk
+NHNOE3032,,,3679,Electronic Components
+NHNOE3046,,,3444,Sheet Metal Work
+NHNOE3047,,,3444,Sheet Metal Work
+NHNOE3056,,,2299,Textile Goods
+NHNOE3127,,,4512,"Air Transportation, Scheduled"
+NHNOE3166,,,3499,Fabricated Metal Products
+NHNOE3186,,,5093,Scrap And Waste Materials
+NHNOE3191,,,4215,"Courier Services, Except By Air"
+NHNOE3192,,,4215,"Courier Services, Except By Air"
+NHNOE3193,,,4215,"Courier Services, Except By Air"
+NHNOE3197,,,4215,"Courier Services, Except By Air"
+NHNOE3219,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3220,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3221,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3222,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3223,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3224,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3225,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3230,,,3679,Electronic Components
+NHNOE3231,,,4212,"Local Trucking, Without Storage"
+NHNOE3232,,,2759,Commercial Printing
+NHNOE3233,,,2421,"Sawmills And Planing Mills, General"
+NHNOE3246,,,3589,Service Industry Machinery
+NHNOE3249,,,3641,Electric Lamps
+NHNOE3250,,,3357,Nonferrous Wiredrawing & Insulating
+NHNOE3255,,,3999,Manufacturing Industries
+NHNOE3258,,,3827,Optical Instruments And Lenses
+NHNOE3262,,,3841,Surgical And Medical Instruments
+NHNOE3263,,,3089,Plastics Products
+NHNOE3266,,,3548,Welding Apparatus
+NHNOE3267,,,3089,Plastics Products
+NHNOE3270,,,2599,Furniture And Fixtures
+NHNOE3277,,,3679,Electronic Components
+NHNOE3278,,,3728,Aircraft Parts And Equipment
+NHNOE3279,,,3679,Electronic Components
+NHNOE3283,,,3398,Metal Heat Treating
+NHNOE3286,,,4215,"Courier Services, Except By Air"
+NHNOE3287,,,4151,School Buses
+NHNOE3288,,,4215,"Courier Services, Except By Air"
+NHNOE3289,,,4215,"Courier Services, Except By Air"
+NHNOE3290,,,2869,Industrial Organic Chemicals
+NHNOE3291,,,3826,Analytical Instruments
+NHNOE3292,,,3841,Surgical And Medical Instruments
+NHNOE3293,,,2657,Folding Paperboard Boxes
+NHNOE3295,,,5093,Scrap And Waste Materials
+NHNOE3296,,,3471,Plating And Polishing
+NHNOE3297,,,3471,Plating And Polishing
+NHNOE3300,,,2013,Sausages And Other Prepared Meats
+NHNOE3304,,,3842,Surgical Appliances And Supplies
+NHNOE3305,,,3842,Surgical Appliances And Supplies
+NHNOE3308,,,4215,"Courier Services, Except By Air"
+NHNOE3309,,,3545,Machine Tool Accessories
+NHNOE3313,,,3669,Communications Equipment
+NHNOE3315,,,3678,Electronic Connectors
+NHNOE3317,,,4225,General Warehousing And Storage
+NHNOE3320,,,3398,Metal Heat Treating
+NHNOE3333,,,3231,Products Of Purchased Glass
+NHNOE3334,,,3089,Plastics Products
+NHNOE3335,,,3728,Aircraft Parts And Equipment
+NHNOE3338,,,3825,Instruments To Measure Electricity
+NHNOE3344,,,4151,School Buses
+NHNOE3346,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3347,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3348,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOE3351,,,3052,Rubber & Plastics Hose & Belting
+NHNOE3352,,,2053,"Frozen Bakery Products, Except Bread"
+NHNOE3354,,,3672,Printed Circuit Boards
+NHNOE3355,,,3677,Electronic Coils And Transformers
+NHNOE3356,,,2086,Bottled And Canned Soft Drinks
+NHNOE3357,,,5093,Scrap And Waste Materials
+NHNOE3360,,,3674,Semiconductors And Related Devices
+NHNOE3362,,,5093,Scrap And Waste Materials
+NHNOE3365,,,3999,Manufacturing Industries
+NHNOE3366,,,2631,Paperboard Mills
+NHNOE3369,,,3554,Paper Industries Machinery
+NHNOE3370,,,2834,Pharmaceutical Preparations
+NHNOE3371,,,2834,Pharmaceutical Preparations
+NHNOE3372,,,3559,Special Industry Machinery
+NHNOE3373,,,3559,Special Industry Machinery
+NHNOE3374,,,3499,Fabricated Metal Products
+NHNOE3375,,,3399,Primary Metal Products
+NHNOE3376,,,3069,Fabricated Rubber Products
+NHNOE3377,,,3544,"Special Dies, Tools, Jigs & Fixtures"
+NHNOEJ000,,,3499,Fabricated Metal Products
+NHNOEJ001,,,3299,Nonmetallic Mineral Products
+NHNOEJ002,,,3999,Manufacturing Industries
+NHNOEJ003,,,4212,"Local Trucking, Without Storage"
+NHNOEJ004,,,3299,Nonmetallic Mineral Products
+NHNOEJ005,,,3641,Electric Lamps
+NHNOEJ006,,,2899,Chemical Preparations
+NHNOEJ007,,,3053,"Gaskets, Packing And Sealing Devices"
+NHNOEJ008,,,2653,Corrugated And Solid Fiber Boxes
+NHNOEJ009,,,3643,Current-Carrying Wiring Devices
+NHNOEJ00A,,,3724,Aircraft Engines And Engine Parts
+NHNOEJ00B,,,2759,Commercial Printing
+NHNOEJ00C,,,3089,Plastics Products
+NHNOEJ00D,,,3679,Electronic Components
+NHNOEJ00F,,,5093,Scrap And Waste Materials
+NHNOEJ00G,,,5093,Scrap And Waste Materials
+NHNOEJ00H,,,3559,Special Industry Machinery
+NHNOEJ00I,,,3479,Metal Coating And Allied Services
+NHNOEJ00J,,,2295,"Coated Fabrics, Not Rubberized"
+NHNOEJ00K,,,3841,Surgical And Medical Instruments
+NHNOEJ00L,,,4225,General Warehousing And Storage
+NHNOEJ00M,,,3827,Optical Instruments And Lenses
+NHNOEJ00N,,,3714,Motor Vehicle Parts And Accessories
+NHNOEJ00O,,,5093,Scrap And Waste Materials
+NHNOEJ00P,,,3089,Plastics Products
+NHNOEJ00Q,,,3724,Aircraft Engines And Engine Parts
+NHNOEJ00R,,,3357,Nonferrous Wiredrawing & Insulating
+NHNOEJ00T,,,3561,Pumps And Pumping Equipment
+NHNOEJ00U,,,2671,"Paper Coated & Laminated, Packaging"
+NHNOEJ00V,,,4151,School Buses
+NHNOEJ00W,,,3624,Carbon And Graphite Products
+NHNOEJ00X,,,3674,Semiconductors And Related Devices
+NHNOEJ00Y,,,3568,Power Transmission Equipment
+NHNOEJ00Z,,,4212,"Local Trucking, Without Storage"
+NHNOEJ010,,,3562,Ball And Roller Bearings
+NHNOEJ011,,,5093,Scrap And Waste Materials
+NHNOEJ012,,,2253,Knit Outerwear Mills
+NHNOEJ013,,,3089,Plastics Products
+NHNOEJ014,,,3429,"Hardware, Not Elsewhere Classified"
+NHNOEJ015,,,2836,Biological Products Except Diagnostic
+NHNOEJ016,,,5093,Scrap And Waste Materials
+NHNOEJ017,,,4231,Trucking Terminal Facilities
+NHNOEJ018,,,4214,Local Trucking With Storage
+NHNOEJ019,,,4214,Local Trucking With Storage
+NHNOEJ01A,,,4214,Local Trucking With Storage
+NHNOEJ01B,,,4214,Local Trucking With Storage
+NHNOEJ01D,,,3639,Household Appliances
+NHNOEJ01E,,,2672,Paper Coated And Laminated
+NHNOEJ01F,,,2819,Industrial Inorganic Chemicals
+NHNOEJ01G,,,2752,"Commercial Printing, Lithographic"
+NHNOEJ01H,,,3679,Electronic Components
+NHNOEJ01I,,,3229,Pressed And Blown Glass
+NHNOEJ01J,,,3728,Aircraft Parts And Equipment
+NHNOEJ01K,,,2752,"Commercial Printing, Lithographic"
+NHNOEJ01L,,,3484,Small Arms
+NHNOEJ01M,,,4151,School Buses
+NHNOEJ01O,,,4213,"Trucking, Except Local"
+NHNOEJ01P,,,3555,Printing Trades Machinery
+NHNOEJ01Q,,,2653,Corrugated And Solid Fiber Boxes
+NHNOEJ01S,,,3728,Aircraft Parts And Equipment
+NHNOEJ01T,,,3089,Plastics Products
+NHNOEJ01U,,,3679,Electronic Components
+NHNOEJ01V,,,3679,Electronic Components
+NHNOEJ01W,,,3679,Electronic Components
+NHNOEJ01X,,,2869,Industrial Organic Chemicals
+NHNOEJ01Y,,,4493,Marinas
+NHNOEJ020,,,3089,Plastics Products
+NHNOEJ021,,,3089,Plastics Products
+NHNOEJ023,,,3825,Instruments To Measure Electricity
+NHNOEJ024,,,3053,"Gaskets, Packing And Sealing Devices"
+NHNOEJ025,,,2299,Textile Goods
+NHNOEJ026,,,2992,Lubricating Oils And Greases
+NHNOEJ027,,,4225,General Warehousing And Storage
+NHNOEJ028,,,5093,Scrap And Waste Materials
+NHNOEJ029,,,3826,Analytical Instruments
+NHNOEJ02A,,,3728,Aircraft Parts And Equipment
+NHNOEJ02B,,,2899,Chemical Preparations
+NHNOEJ02C,,,3672,Printed Circuit Boards
+NHNOEJ02D,,,4151,School Buses
+NHNOEJ02E,,,3571,Electronic Computers
+NHNOEJ02F,,,4226,Special Warehousing And Storage
+NHNOEJ02G,,,2752,"Commercial Printing, Lithographic"
+NHNOEJ02H,,,1442,Construction Sand And Gravel
+NHNOEJ02I,,,3444,Sheet Metal Work
+NHNOEJ02J,,,2672,Paper Coated And Laminated
+NHNOEJ02K,,,2891,Adhesives And Sealants
+NHNOEJ02M,,,3674,Semiconductors And Related Devices
+NHNOEJ02N,,,3812,Search And Navigation Equipment
+NHNOEJ02O,,,3496,Miscellaneous Fabricated Wire Products
+NHNOEJ02P,,,3365,Aluminum Foundries
+NHNOEJ02Q,,,3441,Fabricated Structural Metal
+NHNOEJ02R,,,4225,General Warehousing And Storage
+NHNOEJ02S,,,3679,Electronic Components
+NHNOEJ02T,,,3089,Plastics Products
+NHNOEJ02U,,,4215,"Courier Services, Except By Air"
+NHNOEJ02V,,,3053,"Gaskets, Packing And Sealing Devices"
+NHNOEJ02W,,,4225,General Warehousing And Storage
+NHNOEJ02X,,,3484,Small Arms
+NHNOEJ02Y,,,3484,Small Arms
+NHNOEJ02Z,,,3674,Semiconductors And Related Devices
+NHNOEJ031,,,2759,Commercial Printing
+NHNOEJ032,,,3841,Surgical And Medical Instruments
+NHNOEJ033,,,3589,Service Industry Machinery
+NHNOEJ034,,,3589,Service Industry Machinery
+NHNOEJ035,,,5093,Scrap And Waste Materials
+NHNOEJ036,,,2631,Paperboard Mills
+NHNOEJ037,,,3484,Small Arms
+NHNOEJ03A,,,3484,Small Arms
+NHNOEJ03D,,,5093,Scrap And Waste Materials
+NHNOEJ03E,,,3496,Miscellaneous Fabricated Wire Products
+NHNOEJ03F,,,3299,Nonmetallic Mineral Products
+NHNOEJ03G,,,3299,Nonmetallic Mineral Products
+NHNOEJ03H,,,3841,Surgical And Medical Instruments
+NHNOEJ03I,,,3841,Surgical And Medical Instruments
+NHNOEJ03J,,,2834,Pharmaceutical Preparations
+NHNOEJ03K,,,2834,Pharmaceutical Preparations
+NHNOEJ03L,,,2834,Pharmaceutical Preparations
+NHNOEJ03M,,,2834,Pharmaceutical Preparations
+NHNOEJ03N,,,4226,Special Warehousing And Storage
+NHNOEJ03O,,,2759,Commercial Printing
+NHNOEJ03P,,,3585,Refrigeration And Heating Equipment
+NHNOEJ03R,,,3678,Electronic Connectors
+NHNOEJ03S,,,3841,Surgical And Medical Instruments
+NHNOEJ03T,,,3433,"Heating Equipment, Except Electric"
+NHNOEJ03U,,,3678,Electronic Connectors
+NHNOEJ03V,,,3678,Electronic Connectors
+NHNOEJ03X,,,3559,Special Industry Machinery
+NHNOEJ03Y,,,4225,General Warehousing And Storage
+NHNOEJ03Z,,,3841,Surgical And Medical Instruments
+NHNOEJ040,,,3679,Electronic Components
+NHNOEJ041,,,3089,Plastics Products
+NHNOEJ042,,,4212,"Local Trucking, Without Storage"
+NHNOEJ043,,,3841,Surgical And Medical Instruments
+NHNOEJ044,,,3491,Industrial Valves
+NHNOEJ045,,,3699,Electrical Equipment & Supplies
+NHNOEJ046,,,3827,Optical Instruments And Lenses
+NHNOEJ047,,,3812,Search And Navigation Equipment
+NHNOEJ048,,,4151,School Buses
+NHNOEJ049,,,4151,School Buses
+NHNOEJ04A,,,4151,School Buses
+NHNOEJ04B,,,4151,School Buses
+NHNOEJ04C,,,4151,School Buses
+NHNOEJ04D,,,4151,School Buses
+NHNOEJ04E,,,3357,Nonferrous Wiredrawing & Insulating
+NHNOEJ04F,,,3599,Industrial Machinery
+NHNOEJ04H,,,4212,"Local Trucking, Without Storage"
+NHNOEJ04I,,,4213,"Trucking, Except Local"
+NHNOEJ04J,,,3728,Aircraft Parts And Equipment
+NHNOEJ04K,,,4151,School Buses
+NHNOEJ04L,,,3599,Industrial Machinery
+NHNOEJ04M,,,3599,Industrial Machinery
+NHNOEJ04N,,,3559,Special Industry Machinery
+NHNOEJ04O,,,4213,"Trucking, Except Local"
+NHNOEJ04P,,,3549,Metalworking Machinery
+NHNOEJ04Q,,,3559,Special Industry Machinery
+NHNOEJ04R,,,2821,Plastics Materials And Resins
+NHNOEJ04S,,,3084,Plastics Pipe
+NHNOEJ04T,,,4225,General Warehousing And Storage
+NHNOEJ04U,,,3499,Fabricated Metal Products
+NHNOEJ04V,,,3827,Optical Instruments And Lenses
+NHNOEJ04W,,,4212,"Local Trucking, Without Storage"
+NHNOEJ04X,,,3541,"Machine Tools, Metal Cutting Types"
+NHNOEJ04Y,,,3357,Nonferrous Wiredrawing & Insulating
+NHNOEJ04Z,,,3555,Printing Trades Machinery
+NHP000001,,,3053,"Gaskets, Packing And Sealing Devices"
+NHP000003,,,3841,Surgical And Medical Instruments
+NHP000004,,,3069,Fabricated Rubber Products
+NHP000005,,,3663,Radio & TV Communications Equipment
+NHP000006,,,3499,Fabricated Metal Products
+NHP000007,,,2082,Malt Beverages
+NHP000008,,,2297,Nonwoven Fabrics
+NHP000009,,,3724,Aircraft Engines And Engine Parts
+NHP000010,,,3465,Automotive Stampings
+NHP000011,,,2836,Biological Products Except Diagnostic
+NHP000012,,,3562,Ball And Roller Bearings
+NHP000013,,,3643,Current-Carrying Wiring Devices
+NHP000014,,,2834,Pharmaceutical Preparations
+NHP000015,,,3069,Fabricated Rubber Products
+NHP000016,,,3484,Small Arms
+NHP000017,,,3562,Ball And Roller Bearings
+NHP000018,,,2082,Malt Beverages
+NHP000019,,,2092,Fresh Or Frozen Prepared Fish
+NHP000020,,,2834,Pharmaceutical Preparations
+NHP000021,,,3471,Plating And Polishing
+NHP000022,,,3842,Surgical Appliances And Supplies
+NHR050001,,,3324,Steel Investment Foundries
+NHR050002,,,4231,Trucking Terminal Facilities
+NHR053000,,,2048,Prepared Feeds
+NHR053004,,,5015,"Motor Vehicle Parts, Used"
+NHR053006,,,4493,Marinas
+NHR053008,,,4493,Marinas
+NHR053011,,,2421,"Sawmills And Planing Mills, General"
+NHR053012,,,2672,Paper Coated And Laminated
+NHR053013,,,2891,Adhesives And Sealants
+NHR053016,,,2499,Wood Products
+NHR053017,,,4151,School Buses
+NHR053018,,,4151,School Buses
+NHR053019,,,4151,School Buses
+NHR053020,,,4151,School Buses
+NHR053021,,,4151,School Buses
+NHR053022,,,4151,School Buses
+NHR053023,,,4151,School Buses
+NHR053025,,,5093,Scrap And Waste Materials
+NHR053029,,,3672,Printed Circuit Boards
+NHR053033,,,5171,Petroleum Bulk Stations & Terminals
+NHR053034,,,3441,Fabricated Structural Metal
+NHR053036,,,3273,Ready-Mixed Concrete
+NHR053038,,,2066,Chocolate And Cocoa Products
+NHR053039,,,3646,Commercial Lighting Fixtures
+NHR053040,,,3548,Welding Apparatus
+NHR053041,,,3724,Aircraft Engines And Engine Parts
+NHR053043,,,3544,"Special Dies, Tools, Jigs & Fixtures"
+NHR053044,,,4213,"Trucking, Except Local"
+NHR053045,,,3053,"Gaskets, Packing And Sealing Devices"
+NHR053048,,,3053,"Gaskets, Packing And Sealing Devices"
+NHR053050,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053051,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053052,,,3053,"Gaskets, Packing And Sealing Devices"
+NHR053053,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053054,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053055,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053057,,,2499,Wood Products
+NHR053058,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053059,,,2621,Paper Mills
+NHR053060,,,4522,"Air Transportation, Nonscheduled"
+NHR053062,,,4581,"Airports, Flying Fields, & Services"
+NHR053063,,,3732,Boat Building And Repairing
+NHR053064,,,3272,Concrete Products
+NHR053065,,,3273,Ready-Mixed Concrete
+NHR053066,,,4581,"Airports, Flying Fields, & Services"
+NHR053067,,,3273,Ready-Mixed Concrete
+NHR053068,,,3273,Ready-Mixed Concrete
+NHR053069,,,3273,Ready-Mixed Concrete
+NHR053070,,,3273,Ready-Mixed Concrete
+NHR053071,,,3273,Ready-Mixed Concrete
+NHR053072,,,4213,"Trucking, Except Local"
+NHR053073,,,5093,Scrap And Waste Materials
+NHR053074,,,3494,Valves And Pipe Fittings
+NHR053075,,,2421,"Sawmills And Planing Mills, General"
+NHR053076,,,2092,Fresh Or Frozen Prepared Fish
+NHR053077,,,2421,"Sawmills And Planing Mills, General"
+NHR053078,,,1442,Construction Sand And Gravel
+NHR053079,,,3273,Ready-Mixed Concrete
+NHR053080,,,3672,Printed Circuit Boards
+NHR053081,,,5171,Petroleum Bulk Stations & Terminals
+NHR053082,,,5171,Petroleum Bulk Stations & Terminals
+NHR053083,,,5171,Petroleum Bulk Stations & Terminals
+NHR053084,,,3612,"Transformers, Except Electronic"
+NHR053085,,,2421,"Sawmills And Planing Mills, General"
+NHR053086,,,2099,Food Preparations
+NHR053087,,,2421,"Sawmills And Planing Mills, General"
+NHR053088,,,1429,Crushed And Broken Stone
+NHR053089,,,2421,"Sawmills And Planing Mills, General"
+NHR053090,,,3354,Aluminum Extruded Products
+NHR053091,,,5093,Scrap And Waste Materials
+NHR053093,,,2752,"Commercial Printing, Lithographic"
+NHR053095,,,2221,"Broadwoven Fabric Mills, Manmade"
+NHR053096,,,2231,"Broadwoven Fabric Mills, Wool"
+NHR053097,,,2295,"Coated Fabrics, Not Rubberized"
+NHR053098,,,5093,Scrap And Waste Materials
+NHR053099,,,5093,Scrap And Waste Materials
+NHR053100,,,4522,"Air Transportation, Nonscheduled"
+NHR053101,,,3357,Nonferrous Wiredrawing & Insulating
+NHR053102,,,4212,"Local Trucking, Without Storage"
+NHR053103,,,4212,"Local Trucking, Without Storage"
+NHR053104,,,4212,"Local Trucking, Without Storage"
+NHR053105,,,2621,Paper Mills
+NHR053106,,,4212,"Local Trucking, Without Storage"
+NHR053107,,,2421,"Sawmills And Planing Mills, General"
+NHR053108,,,4522,"Air Transportation, Nonscheduled"
+NHR053109,,,4512,"Air Transportation, Scheduled"
+NHR053110,,,5093,Scrap And Waste Materials
+NHR053112,,,5093,Scrap And Waste Materials
+NHR053113,,,5093,Scrap And Waste Materials
+NHR053114,,,3053,"Gaskets, Packing And Sealing Devices"
+NHR053115,,,3089,Plastics Products
+NHR053116,,,3089,Plastics Products
+NHR053117,,,3354,Aluminum Extruded Products
+NHR053119,,,5093,Scrap And Waste Materials
+NHR053120,,,4212,"Local Trucking, Without Storage"
+NHR053121,,,1429,Crushed And Broken Stone
+NHR053122,,,5093,Scrap And Waste Materials
+NHR053123,,,4491,Marine Cargo Handling
+NHR053124,,,5093,Scrap And Waste Materials
+NHR053126,,,3562,Ball And Roller Bearings
+NHR053128,,,2796,Platemaking Services
+NHR053129,,,5171,Petroleum Bulk Stations & Terminals
+NHR053130,,,5093,Scrap And Waste Materials
+NHR053132,,,3826,Analytical Instruments
+NHR053133,,,3275,Gypsum Products
+NHR053134,,,5093,Scrap And Waste Materials
+NHR053135,,,4581,"Airports, Flying Fields, & Services"
+NHR053136,,,5093,Scrap And Waste Materials
+NHR053137,,,5093,Scrap And Waste Materials
+NHR053138,,,5093,Scrap And Waste Materials
+NHR053139,,,5093,Scrap And Waste Materials
+NHR053140,,,5093,Scrap And Waste Materials
+NHR053141,,,5093,Scrap And Waste Materials
+NHR053142,,,5093,Scrap And Waste Materials
+NHR053143,,,3679,Electronic Components
+NHR053144,,,1429,Crushed And Broken Stone
+NHR053145,,,1429,Crushed And Broken Stone
+NHR053146,,,3069,Fabricated Rubber Products
+NHR053147,,,1429,Crushed And Broken Stone
+NHR053148,,,1429,Crushed And Broken Stone
+NHR053149,,,1442,Construction Sand And Gravel
+NHR053150,,,3089,Plastics Products
+NHR053151,,,1442,Construction Sand And Gravel
+NHR053152,,,2952,Asphalt Felts And Coatings
+NHR053153,,,3484,Small Arms
+NHR053154,,,4213,"Trucking, Except Local"
+NHR053155,,,5093,Scrap And Waste Materials
+NHR053156,,,3471,Plating And Polishing
+NHR053157,,,4512,"Air Transportation, Scheduled"
+NHR053158,,,1429,Crushed And Broken Stone
+NHR053159,,,2821,Plastics Materials And Resins
+NHR053162,,,4311,U.S. Postal Service
+NHR053164,,,2869,Industrial Organic Chemicals
+NHR053165,,,2951,Asphalt Paving Mixtures And Blocks
+NHR053168,,,3556,Food Products Machinery
+NHR053169,,,1429,Crushed And Broken Stone
+NHR053170,,,4212,"Local Trucking, Without Storage"
+NHR053171,,,3369,Nonferrous Foundries
+NHR053172,,,2421,"Sawmills And Planing Mills, General"
+NHR053173,,,5171,Petroleum Bulk Stations & Terminals
+NHR053174,,,3555,Printing Trades Machinery
+NHR053175,,,4581,"Airports, Flying Fields, & Services"
+NHR053177,,,3273,Ready-Mixed Concrete
+NHR053178,,,4213,"Trucking, Except Local"
+NHR053179,,,3273,Ready-Mixed Concrete
+NHR053180,,,3273,Ready-Mixed Concrete
+NHR053181,,,5015,"Motor Vehicle Parts, Used"
+NHR053183,,,3357,Nonferrous Wiredrawing & Insulating
+NHR053184,,,2082,Malt Beverages
+NHR053185,,,3357,Nonferrous Wiredrawing & Insulating
+NHR053188,,,3441,Fabricated Structural Metal
+NHR053189,,,3324,Steel Investment Foundries
+NHR053190,,,3324,Steel Investment Foundries
+NHR053194,,,4215,"Courier Services, Except By Air"
+NHR053195,,,4215,"Courier Services, Except By Air"
+NHR053196,,,4513,Air Courier Services
+NHR053198,,,4231,Trucking Terminal Facilities
+NHR053199,,,2851,Paints And Allied Products
+NHR053201,,,5093,Scrap And Waste Materials
+NHR053202,,,3295,"Minerals, Ground Or Treated"
+NHR053203,,,5171,Petroleum Bulk Stations & Terminals
+NHR053204,,,2992,Lubricating Oils And Greases
+NHR053205,,,2411,Logging
+NHR053206,,,4231,Trucking Terminal Facilities
+NHR053207,,,5093,Scrap And Waste Materials
+NHR053209,,,1442,Construction Sand And Gravel
+NHR053210,,,3531,Construction Machinery
+NHR053211,,,2297,Nonwoven Fabrics
+NHR053213,,,3273,Ready-Mixed Concrete
+NHR053214,,,1429,Crushed And Broken Stone
+NHR053215,,,3357,Nonferrous Wiredrawing & Insulating
+NHR053216,,,1442,Construction Sand And Gravel
+NHR053217,,,3443,Fabricated Plate Work (Boiler Shops)
+NHR053218,,,3443,Fabricated Plate Work (Boiler Shops)
+NHR053226,,,5015,"Motor Vehicle Parts, Used"
+NHR053227,,,5093,Scrap And Waste Materials
+NHR053228,,,5093,Scrap And Waste Materials
+NHR053229,,,5093,Scrap And Waste Materials
+NHR053234,,,1442,Construction Sand And Gravel
+NHR053235,,,2421,"Sawmills And Planing Mills, General"
+NHR053236,,,2421,"Sawmills And Planing Mills, General"
+NHR053237,,,2426,Hardwood Dimension & Flooring Mills
+NHR053238,,,4215,"Courier Services, Except By Air"
+NHR053239,,,4215,"Courier Services, Except By Air"
+NHR053240,,,4215,"Courier Services, Except By Air"
+NHR053241,,,4215,"Courier Services, Except By Air"
+NHR053242,,,4215,"Courier Services, Except By Air"
+NHR053243,,,4581,"Airports, Flying Fields, & Services"
+NHR053247,,,4581,"Airports, Flying Fields, & Services"
+NHR053248,,,4493,Marinas
+NHR053251,,,3272,Concrete Products
+NHR053252,,,4581,"Airports, Flying Fields, & Services"
+NHR053253,,,4581,"Airports, Flying Fields, & Services"
+NHR053254,,,1423,Crushed And Broken Granite
+NHR053256,,,3825,Instruments To Measure Electricity
+NHR053257,,,3272,Concrete Products
+NHR053259,,,1411,Dimension Stone
+NHR053261,,,1442,Construction Sand And Gravel
+NHR053264,,,4493,Marinas
+NHR053265,,,3724,Aircraft Engines And Engine Parts
+NHR053268,,,3089,Plastics Products
+NHR053269,,,3275,Gypsum Products
+NHR053271,,,4225,General Warehousing And Storage
+NHR053273,,,1423,Crushed And Broken Granite
+NHR053274,,,4225,General Warehousing And Storage
+NHR053275,,,5093,Scrap And Waste Materials
+NHR053276,,,2421,"Sawmills And Planing Mills, General"
+NHR053280,,,2834,Pharmaceutical Preparations
+NHR053281,,,1442,Construction Sand And Gravel
+NHR053282,,,4493,Marinas
+NHR053284,,,3273,Ready-Mixed Concrete
+NHR053285,,,3273,Ready-Mixed Concrete
+NHR053294,,,2421,"Sawmills And Planing Mills, General"
+NHR053298,,,5015,"Motor Vehicle Parts, Used"
+NHR053299,,,5015,"Motor Vehicle Parts, Used"
+NHR053301,,,2952,Asphalt Felts And Coatings
+NHR053302,,,2499,Wood Products
+NHR053306,,,5093,Scrap And Waste Materials
+NHR053307,,,2421,"Sawmills And Planing Mills, General"
+NHR053310,,,2421,"Sawmills And Planing Mills, General"
+NHR053311,,,2421,"Sawmills And Planing Mills, General"
+NHR053312,,,2411,Logging
+NHR053314,,,2411,Logging
+NHR053316,,,2421,"Sawmills And Planing Mills, General"
+NHR053318,,,2421,"Sawmills And Planing Mills, General"
+NHR053321,,,2026,Fluid Milk
+NHR053322,,,3085,Plastics Bottles
+NHR053323,,,2099,Food Preparations
+NHR053324,,,3272,Concrete Products
+NHR053325,,,2421,"Sawmills And Planing Mills, General"
+NHR053326,,,2411,Logging
+NHR053327,,,2499,Wood Products
+NHR053328,,,3271,Concrete Block And Brick
+NHR053329,,,4493,Marinas
+NHR053330,,,2499,Wood Products
+NHR053331,,,2421,"Sawmills And Planing Mills, General"
+NHR053332,,,2421,"Sawmills And Planing Mills, General"
+NHR053336,,,4522,"Air Transportation, Nonscheduled"
+NHR053337,,,4151,School Buses
+NHR053339,,,2411,Logging
+NHR053340,,,2411,Logging
+NHR053341,,,1423,Crushed And Broken Granite
+NHR053342,,,1442,Construction Sand And Gravel
+NHR053343,,,4215,"Courier Services, Except By Air"
+NHR053349,,,4213,"Trucking, Except Local"
+NHR053350,,,3441,Fabricated Structural Metal
+NHR053353,,,1442,Construction Sand And Gravel
+NHR053361,,,2411,Logging
+NHR053367,,,2499,Wood Products
+NHR053368,,,5171,Petroleum Bulk Stations & Terminals
+NHR05J001,,,5015,"Motor Vehicle Parts, Used"
+NHR05J002,,,1429,Crushed And Broken Stone
+NHR05J003,,,2421,"Sawmills And Planing Mills, General"
+NHR05J004,,,2421,"Sawmills And Planing Mills, General"
+NHR05J005,,,2426,Hardwood Dimension & Flooring Mills
+NHR05J006,,,2411,Logging
+NHR05J007,,,1442,Construction Sand And Gravel
+NHR05J009,,,4214,Local Trucking With Storage
+NHR05J00A,,,1429,Crushed And Broken Stone
+NHR05J00B,,,3357,Nonferrous Wiredrawing & Insulating
+NHR05J00C,,,5171,Petroleum Bulk Stations & Terminals
+NHR05J00D,,,2421,"Sawmills And Planing Mills, General"
+NHR05J00E,,,3555,Printing Trades Machinery
+NHR05J00F,,,2411,Logging
+NHR05J00G,,,2951,Asphalt Paving Mixtures And Blocks
+NHR05J00H,,,1442,Construction Sand And Gravel
+NHR05J00I,,,5093,Scrap And Waste Materials
+NHR05J00J,,,1442,Construction Sand And Gravel
+NHR05J00K,,,3271,Concrete Block And Brick
+NHR05J00L,,,1442,Construction Sand And Gravel
+NHR05J00M,,,2082,Malt Beverages
+NHR05J00N,,,4581,"Airports, Flying Fields, & Services"
+NHR05J00O,,,1423,Crushed And Broken Granite
+NHR05J00P,,,1442,Construction Sand And Gravel
+NHR05J00Q,,,1429,Crushed And Broken Stone
+NHR05J00R,,,3354,Aluminum Extruded Products
+NHR05J00S,,,1442,Construction Sand And Gravel
+NHR05J00T,,,4491,Marine Cargo Handling
+NHR05J00U,,,4225,General Warehousing And Storage
+NHR05J00V,,,3272,Concrete Products
+NHR05J00W,,,2411,Logging
+NHR05J00X,,,1446,Industrial Sand
+NHR05J00Y,,,4222,Refrigerated Warehousing And Storage
+NHR05J00Z,,,1442,Construction Sand And Gravel
+NHR05J012,,,2421,"Sawmills And Planing Mills, General"
+NHR05J013,,,5093,Scrap And Waste Materials
+NHR05J015,,,3496,Miscellaneous Fabricated Wire Products
+NHR05J016,,,1442,Construction Sand And Gravel
+NHR05J01A,,,5093,Scrap And Waste Materials
+NHR05J01B,,,2297,Nonwoven Fabrics
+NHR05J01D,,,3643,Current-Carrying Wiring Devices
+NHR05J01E,,,1442,Construction Sand And Gravel
+NHR05J01K,,,3085,Plastics Bottles
+NHR05J01N,,,1442,Construction Sand And Gravel
+NHR05J01O,,,4581,"Airports, Flying Fields, & Services"
+NHR05J01P,,,4581,"Airports, Flying Fields, & Services"
+NHR05J01R,,,3271,Concrete Block And Brick
+NHR05J01S,,,2411,Logging
+NHR05J01T,,,4581,"Airports, Flying Fields, & Services"
+NHR05J01U,,,1429,Crushed And Broken Stone
+NHR05J01V,,,2992,Lubricating Oils And Greases
+NHR05J01W,,,2048,Prepared Feeds
+NHR05J01Y,,,5015,"Motor Vehicle Parts, Used"
+NHR05J01Z,,,4212,"Local Trucking, Without Storage"
+NHR05J020,,,5015,"Motor Vehicle Parts, Used"
+NHR05J021,,,3357,Nonferrous Wiredrawing & Insulating
+NHR05J022,,,4215,"Courier Services, Except By Air"
+NHR05J023,,,1442,Construction Sand And Gravel
+NHR05J024,,,1442,Construction Sand And Gravel
+NHR05J025,,,1442,Construction Sand And Gravel
+NHR05J026,,,4581,"Airports, Flying Fields, & Services"
+NHR05J027,,,5093,Scrap And Waste Materials
+NHR05J028,,,2421,"Sawmills And Planing Mills, General"
+NHR05J029,,,5093,Scrap And Waste Materials
+NHR05J02A,,,2448,Wood Pallets And Skids
+NHR05J02B,,,5093,Scrap And Waste Materials
+NHR05J02C,,,1429,Crushed And Broken Stone
+NHR05J02E,,,2411,Logging
+NHR05J02G,,,1442,Construction Sand And Gravel
+NHR05J02H,,,4231,Trucking Terminal Facilities
+NHR05J02I,,,3585,Refrigeration And Heating Equipment
+NHR05J02J,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02K,,,4225,General Warehousing And Storage
+NHR05J02L,,,4522,"Air Transportation, Nonscheduled"
+NHR05J02M,,,4214,Local Trucking With Storage
+NHR05J02N,,,4215,"Courier Services, Except By Air"
+NHR05J02O,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02R,,,4581,"Airports, Flying Fields, & Services"
+NHR05J02S,,,1442,Construction Sand And Gravel
+NHR05J02T,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02U,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02V,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02W,,,1429,Crushed And Broken Stone
+NHR05J02X,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02Y,,,5015,"Motor Vehicle Parts, Used"
+NHR05J02Z,,,2421,"Sawmills And Planing Mills, General"
+NHR05J030,,,5093,Scrap And Waste Materials
+NHR05J031,,,5015,"Motor Vehicle Parts, Used"
+NHR05J032,,,5015,"Motor Vehicle Parts, Used"
+NHR05J033,,,5015,"Motor Vehicle Parts, Used"
+NHR05J034,,,1442,Construction Sand And Gravel
+NHR05J035,,,4151,School Buses
+NHR05J036,,,4151,School Buses
+NHR05J037,,,4151,School Buses
+NHR05J038,,,4151,School Buses
+NHR05J039,,,4151,School Buses
+NHR05J03A,,,4151,School Buses
+NHR05J03B,,,4151,School Buses
+NHR05J03C,,,4212,"Local Trucking, Without Storage"
+NHR05J03D,,,4212,"Local Trucking, Without Storage"
+NHR05J03E,,,4151,School Buses
+NHR05J03F,,,5015,"Motor Vehicle Parts, Used"
+NHR05J03G,,,4581,"Airports, Flying Fields, & Services"
+NHR05J03H,,,3411,Metal Cans
+NHS000001,,,3484,Small Arms
+NHS000008,,,2611,Pulp Mills
+NHU000124,,,5015,"Motor Vehicle Parts, Used"
